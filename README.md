@@ -1,7 +1,7 @@
 # Books-to-Scrape-Project
 Web Scraping Books to Scrape website
 
-Clone the Code from here: 
+Clone the Code from here: https://github.com/warddevo/Books-to-Scrape-Project.git
 ## Phase1
 ### Information for one book
 Change the url to the url of the specific book that you want to scrape (line 4)
