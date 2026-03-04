@@ -8,7 +8,7 @@ Clone the Code from here: https://github.com/warddevo/Books-to-Scrape-Project.gi
 2. Then run ".\env\Scripts\Activate.ps1" (Activates virtual environment)
 3. Then run "pip install -r requirements.txt" (installs required packages)
 4. Then run "pip freeze" (check against requriement text to verify packages are installed)
-5. exit
+5. Then type "deactivate" to return to Powershell
 
 ## Phase1
 ### Information for one book
