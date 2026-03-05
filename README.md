@@ -3,12 +3,13 @@ Web Scraping Books to Scrape website
 
 Clone the Code from here: https://github.com/warddevo/Books-to-Scrape-Project.git
 
-## Virtual Environment
-1. Run in powershell "python3 -m venv <environment name>" (creates virtual environment)
-2. Then run ".\env\Scripts\Activate.ps1" (Activates virtual environment)
-3. Then run "pip install -r requirements.txt" (installs required packages)
-4. Then run "pip freeze" (check against requriement text to verify packages are installed)
-5. Then type "deactivate" to return to Powershell
+## Setting up the Project and Virtual Environment
+1. Clone this repsoitory 
+2. Run in powershell "python3 -m venv <environment name>" (creates virtual environment)
+3. Then run ".\env\Scripts\Activate.ps1" (Activates virtual environment)
+4. Then run "pip install -r requirements.txt" (installs required packages)
+5. Then run "pip freeze" (check against requriement text to verify packages are installed)
+6. Then type "deactivate" to return to Powershell
 
 ## Phase1
 ### Information for one book
